@@ -45497,8 +45497,8 @@ A.Wn.prototype={
 K(a){var s=null
 return A.p8(s,B.a_,new A.i_(new A.aod(this),s),s,s,!1,s)}}
 A.aod.prototype={
-$2(a,b){var s=this.a,r=s.d
-return A.eB(A.b([A.dO("Vacante:",20),A.FN(r,"Introduce el nombre de la vacante",1),A.dO("Empresa:",20),A.FN(s.e,"Introduce el nombre de la Empresa",1),A.dO("Ciudad:",20),A.FN(r,"Introduce el nombre de la ciudad",1),A.aoq(b.b,b.d,"Publicar",new A.aoc(s),B.Dh,!1,!1,20)],t.D),B.ab,B.rM,B.a9)},
+$2(a,b){var s=this.a
+return A.eB(A.b([A.dO("Vacante:",20),A.FN(s.d,"Introduce el nombre de la vacante",1),A.dO("Empresa:",20),A.FN(s.e,"Introduce el nombre de la Empresa",1),A.dO("Ciudad:",20),A.FN(s.f,"Introduce el nombre de la ciudad",1),A.aoq(b.b,b.d/20,"Publicar",new A.aoc(s),B.Dh,!1,!1,20)],t.D),B.ab,B.rM,B.a9)},
 $S:126}
 A.aoc.prototype={
 $0(){var s=this.a
